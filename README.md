@@ -1,27 +1,20 @@
->**Note**: Please **fork** this Udacity repository so you have a **remote** repository in **your** GitHub account. Then you can clone the remote repository to your local machine. Later, as a part of the project, you will push your changes to the remote repository in your GitHub account.
+# Bikeshare Project
 
+The goal of the **Bikeshare Project** is to use Python to explore data related to bike share systems.
 
-# Project Title
+## How to use
 
-Describe what your project is about and what it does
-
-## Information about how to use your project
-
-This could include:
-
-- Step-by-step instructions for installing or setting up your project.
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
+Run the code with command `python bikeshare7.py` and follow the instructions in the Terminal.
 
 ## Contribution guidelines
 
-If you welcome contributions, provide guidelines on how others can contribute to your project.
+You can contribute by creating an _issue_ in the linked GitHub project.
 
 ## Credits
 
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+[GitHub-Link](https://github.com/derSchmie/post-your-work-project)
 
 ## Date created
 
-Include the date you created this project and README file.
+- bikeshare7.py: 10.03.2026
+- README.md: 09.04.2026
