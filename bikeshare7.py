@@ -140,7 +140,7 @@ def time_stats(df):
     display_months = ['January', 'February', 'March', 'April', 'May', 'June']
     print("The most common month is: {}".format(display_months[common_month-1]))
 
-    # display the most common day of week
+    # display the most common weekday
     common_weekday = df['day_of_week'].value_counts().idxmax()
     display_weekday = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
     print("The most common weekday is: {}".format(display_weekday[common_weekday]))
