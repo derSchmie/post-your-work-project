@@ -10,11 +10,11 @@ Run the code with command `python bikeshare7.py` and follow the instructions in 
 
 You can contribute by creating an _issue_ in the linked GitHub project.
 
-## Credits
+## Credits and Link
 
 [GitHub-Link](https://github.com/derSchmie/post-your-work-project)
 
 ## Date created
 
-- bikeshare7.py: 10.03.2026
-- README.md: 09.04.2026
+- **bikeshare7.py**: 10.03.2026
+- **README.md**: 09.04.2026
